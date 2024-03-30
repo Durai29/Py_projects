@@ -90,3 +90,4 @@ def solve():
     print_board(grid)
 
 solve()
+print()

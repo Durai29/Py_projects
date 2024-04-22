@@ -7,4 +7,4 @@ class demo:
 
 akash = demo('idiot')
 
-print()
+print(akash)

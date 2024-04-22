@@ -6,4 +6,5 @@ class demo:
         return f'U r an {self.a}'
 
 akash = demo('idiot')
-print(akash)    
+
+print()
